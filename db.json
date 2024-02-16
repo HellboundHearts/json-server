@@ -1,33 +1,34 @@
 {
-  "projects": [
+  "books": [
     {
-      "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "id": "0001",
+      "title": "Cabal",
+      "author": "Clive Barker",
+      "year": "1987",
+      "genre": "Horror",
+      "condition": "very good",
+      "price": 8,
+      "image_url": "src/assets/book_images/Cabal_CliveBarker.jpg"
     },
     {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
+      "id": "0002",
+      "title": "Swan Song",
+      "author": "Robert R. McGammon",
+      "year": "1988",
+      "genre": "Horror",
+      "condition": "good",
+      "price": 12,
+      "image_url": "src/assets/book_images/SwanSong_RobertRMcGammon.jpg"
     },
     {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
-    },
-    {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "id": "0003",
+      "title": "The Blood Red Game",
+      "author": "Michael Moorcock",
+      "year": "1977",
+      "genre": "Science Fiction",
+      "condition": "used",
+      "price": 6,
+      "image_url": "src/assets/book_images/TheBloodRedGame_Moorcock.jpg"
     }
   ]
 }
