@@ -29,6 +29,16 @@
       "condition": "used",
       "price": 6,
       "image_url": "./assets/book_images/TheBloodRedGame_Moorcock.jpg"
+    },
+    {
+      "id": "0004",
+      "title": "Count Brass",
+      "author": "Michael Moorcock",
+      "year": "1977",
+      "genre": "Fantasy",
+      "condition": "acceptable",
+      "price": 5,
+      "image_url": "./assets/book_images/APC_0013.jpg"
     }
   ]
 }
