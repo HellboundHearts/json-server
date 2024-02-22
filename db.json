@@ -8,7 +8,7 @@
       "genre": "Horror",
       "condition": "very good",
       "price": 8,
-      "image_url": "src/assets/book_images/Cabal_CliveBarker.jpg"
+      "image_url": "./assets/book_images/Cabal_CliveBarker.jpg"
     },
     {
       "id": "0002",
@@ -18,7 +18,7 @@
       "genre": "Horror",
       "condition": "good",
       "price": 12,
-      "image_url": "src/assets/book_images/SwanSong_RobertRMcGammon.jpg"
+      "image_url": "./assets/book_images/SwanSong_RobertRMcGammon.jpg"
     },
     {
       "id": "0003",
@@ -28,7 +28,7 @@
       "genre": "Science Fiction",
       "condition": "used",
       "price": 6,
-      "image_url": "src/assets/book_images/TheBloodRedGame_Moorcock.jpg"
+      "image_url": "./assets/book_images/TheBloodRedGame_Moorcock.jpg"
     }
   ]
 }
